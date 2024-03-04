@@ -6,7 +6,7 @@ I'm a developer, entrepreneur, and writer.
 
 * 🚀 [SaaS Pegasus](https://www.saaspegasus.com/) - The Django SaaS Boilerplate
 * 🪧 [Place Card Me](https://www.placecard.me/) - Make printable place cards online.
-* 🌐 [Scriv](https://scriv.ai/) - A private chatbot for your company data
+* 🤖 [Scriv](https://scriv.ai/) - A private chatbot for your company data
 * 📸 [Photos New Tab](http://www.photosnewtab.com/) - See your memories from Google Photos in your new browser tabs.
   
 ## Writing / Content
