@@ -7,6 +7,7 @@ I'm a developer, entrepreneur, and writer.
 * 🚀 [SaaS Pegasus](https://www.saaspegasus.com/) - The Django SaaS Boilerplate
 * 🪧 [Place Card Me](https://www.placecard.me/) - Make printable place cards online.
 * 🤖 [Scriv](https://scriv.ai/) - A private chatbot for your company data
+* 📅 [Life in Weeks](https://lifeweeks.app/) - Create a map of your life where each week is a little box.
 * 📸 [Photos New Tab](http://www.photosnewtab.com/) - See your memories from Google Photos in your new browser tabs.
   
 ## Writing / Content
@@ -17,6 +18,7 @@ I'm a developer, entrepreneur, and writer.
 
 ## Open Source Projects:
 
+* 🗪 [bluesky-comments](https://github.com/czue/bluesky-comments) - Easily embed a comments section to any website, powered by Bluesky.
 * 🥬 [celery-progress](https://github.com/czue/celery-progress) - Drop in, dependency-free progress bars for your Django/Celery applications.
 * 💒 [django-wedding-website](https://github.com/czue/django-wedding-website/) - A Django Wedding Website and Invitation + Guest Management System
 
